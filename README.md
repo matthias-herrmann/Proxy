@@ -8,6 +8,8 @@ Online preview is available [here](https://cloud.anylogic.com/model/2ec9cf46-6b4
 
 License and Terms by the The AnyLogic Company may apply. 
 
+```
 Model based on example by [1] page 138 and following.
 
 [1] *Kurose, James F., and Keith W. Ross. Computer networking: a top-down approach: international edition. Pearson Higher Ed, 2013*
+```
